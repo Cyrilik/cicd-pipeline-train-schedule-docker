@@ -20,5 +20,4 @@
     "mocha": "^5.0.5",
     "supertest": "^3.0.0"
   }
-  "start": "PORT=3000 react-scripts start"
 }
